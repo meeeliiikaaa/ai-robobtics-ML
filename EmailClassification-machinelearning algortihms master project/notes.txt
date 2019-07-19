@@ -1,0 +1,23 @@
+submission 1 - sample code (.23423)
+submission 2 - decision tree without date, org, mail_type, tld (.98029)
+submission 3 - same as above minus designations field (from powerset test) (.97855)
+submission 4 - all fields but date included now, still a tree (.99146)
+submission 5 - logistic regression attempt (.93292)
+submission 6 - multilayer perceptron attempt (.78412)
+
+introduction
+
+data exploration
+    types of fields (categorical, quantitative)
+
+steps
+    1) develop testing method, run it on the provided solution
+    2) submit results of that skeleton code
+    3) basic tree without categorical fields (no encoding required) (.98029)
+    4) ran through a powerset of all the quantitative and tests found that best result came from using all quantitive except 'designations', wasnt the case when submitted (.97855)
+    5) then did onehotencoding for all fields, using all fields except for date now (BEST RESULT)
+    6) tried all fields except date for logistic regression and multilayer perceptron
+
+possible future optimisations
+    random forest
+    include date fields

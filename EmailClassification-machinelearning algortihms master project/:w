@@ -1,0 +1,4 @@
+submission 1 - sample code (.23423)
+submission 2 - decision tree without date, org, mail_type, tld (.98029)
+submission 3 - same as above minus designations field (from powerset test) (.97855)
+submission 4 - all fields but date included now, still a tree (.99146)
